@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152546575560",
+    "project_id": "hungry-bunny-6ef57",
+    "storage_bucket": "hungry-bunny-6ef57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152546575560:android:e0dad7d75c7e1461b651fd",
+        "android_client_info": {
+          "package_name": "com.company.dominos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsANSBLWG41OVypkHuAIDFgGCda8keoNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
